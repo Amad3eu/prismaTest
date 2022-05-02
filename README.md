@@ -1,6 +1,8 @@
 # PrismaTest
 
-#### DashGo Ignite
+<img src="https://repository-images.githubusercontent.com/349580600/5cda7b00-8a49-11eb-86b7-bc949c6b787d" height="250px">
+
+### DashGo Ignite
 
 ## 🚀 Como executar
 
